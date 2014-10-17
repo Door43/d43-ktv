@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ktv:home|Door43 (ktv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ktv|d43-ktv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ktv/archive/master.zip|d43-ktv.zip]]
+
+**Recent Changes**
+{{changes>ns = ktv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ktv|Ethnologue data]]
+
